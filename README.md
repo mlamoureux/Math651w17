@@ -7,4 +7,4 @@ To clone this repo onto syzygy, enter the following two lines into a cell:
 
 %%bash
 
-git clone https://github.com/mlamoureux/M651w17.git
+git clone https://github.com/mlamoureux/Math651w17.git
